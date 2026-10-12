@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **chienlingt/chienlingt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Introduction
+Hi! I'm Chien Ling, a student in the Software Maintenance and Evolution course.
+I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
+- **Fun fact**: I enjoy combining technology with my interests. I once developed a debate timer for use in real debate competitions!
+- **Course expectations**: To gain practical knowledge of software maintenance techniques and learn how to improve and evolve existing software systems.
+
+![My Image](me.jpg)
