@@ -19,4 +19,4 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I enjoy combining technology with my interests. I once developed a debate timer for use in real debate competitions!
 - **Course expectations**: To gain practical knowledge of software maintenance techniques and learn how to improve and evolve existing software systems.
 
-![My Image](me.jpg)
+![My Image](me.jpg.png)
